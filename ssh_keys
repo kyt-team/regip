@@ -2,3 +2,5 @@
 ssh-rsa AAAAsdsdsdadasdadfsfasadad
 ### IP: 111111
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMk2vZr8y3k0QZp2Jt7aPq9xY5nL6M8K9R0Q1AbC deploy@vps-1
+### Nama: asu | IP: 121212
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMk2vZr8y3k0QZp2Jt7aPq9xY5nL6M8K9R0Q1AbC deploy@vps-1
